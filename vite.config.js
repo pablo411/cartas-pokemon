@@ -5,6 +5,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   /*
-  base: "https://pablo411.github.io/cartas-pokemon">
+  base: "https://pablo411.github.io/cartas-pokemon">,
   */
 })
